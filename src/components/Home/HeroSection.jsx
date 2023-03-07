@@ -17,7 +17,7 @@ const HeroSection = () => {
       <div className={styles.heroright}>
         {/* <img src={heroBg} alt="" /> */}
         <Image
-      src="/herobg2.png "
+      src="/herobg2.png"
       alt="Picture of the author"
       width={800}
       height={800}
